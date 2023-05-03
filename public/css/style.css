@@ -119,3 +119,9 @@ footer ul li a {
 footer ul li a i {
     margin-left: 5px;
 }
+
+.chat-container{
+    position: fixed;
+    bottom: 0;
+    right: 0;
+}
